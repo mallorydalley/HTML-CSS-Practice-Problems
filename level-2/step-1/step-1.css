@@ -19,6 +19,7 @@
     height: 40px;
     background: #536A63;
     float: left;
+    display: inline-block;
 }
 
 .logo {
@@ -27,7 +28,6 @@
     margin-top: 10px;
     background: #536A63;
     display: inline-block;
-
 }
 
 .sign-in {
@@ -35,4 +35,5 @@
     height: 40px;
     background: #536A63;
     float: right;
+    display: inline-block;
 }
